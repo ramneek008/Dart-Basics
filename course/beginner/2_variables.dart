@@ -9,6 +9,11 @@ main(){
   //String
   var name = "Ramneek";
 
+  var address = '''H.No.: 3245,
+  Sector-20,
+  Chd''';
+  
+
   //Boolean
   var is_male = true;
 
@@ -18,6 +23,7 @@ main(){
   //Print
   print(age);
   print(name);
+  print(address);
 
   print("${name} is ${age} years old.");
 
